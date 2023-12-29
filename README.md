@@ -1,6 +1,3 @@
-
-# Netflix css clone
-
 A simple game
 
 # Deployment
